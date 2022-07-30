@@ -1,6 +1,11 @@
 Link do Surge: https://chilly-middle.surge.sh/
 
 Estruturação do projeto 
+- Proposta
+LabeNinjas, startup destinada à busca e oferta de prestações de serviço. 
+Na LabeNinjas, os prestadores podem oferecer seus serviços livremente, enquanto as pessoas com demandas específicas podem encontrar perfis bem alinhados ao que precisam.
+A plataforma se destaca pela variedade de serviços apresentados, tais como Assistência Técnica, Consultoria, Web Design, Reformas, Serviços Domésticos e Aulas Particulares.
+Marketplace são negócios que conectam “duas pontas” - como, por exemplo, o Mercado Livre, que não vende os produtos, mas conecta vendedores com compradores.
 
 ![Fluxograma](https://user-images.githubusercontent.com/38039737/176336242-cdb1128a-525d-4f93-b82f-3c01908013df.png)
 
@@ -11,7 +16,6 @@ Estrutura de acordo com as necessidades e solicitação do cliente.
 
 **Header**
 
-- Descrição
 
 **Botão:**
 
