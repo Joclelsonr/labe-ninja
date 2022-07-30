@@ -1,7 +1,7 @@
 Link do Surge: https://chilly-middle.surge.sh/
 
 Estruturação do projeto 
-- Proposta
+- Proposta:
 LabeNinjas, startup destinada à busca e oferta de prestações de serviço. 
 Na LabeNinjas, os prestadores podem oferecer seus serviços livremente, enquanto as pessoas com demandas específicas podem encontrar perfis bem alinhados ao que precisam.
 A plataforma se destaca pela variedade de serviços apresentados, tais como Assistência Técnica, Consultoria, Web Design, Reformas, Serviços Domésticos e Aulas Particulares.
